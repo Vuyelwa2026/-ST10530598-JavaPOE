@@ -1,2 +1,2 @@
-#  ST10530598-JavaPOE
+#  JavaPOE
 Java programming assignment
